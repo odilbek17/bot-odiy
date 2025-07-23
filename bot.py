@@ -8,7 +8,7 @@ from telegram.ext import (
     filters
 )
 
-TOKEN = '7547321986:AAHCw2SzQOqB-s0lFyPcu7vO8gQyT-8SA84'
+TOKEN = 'Tokin Yozasiz'
 RESPONSES = {
     "salom": "Va alaykum assalom!",
     "yordam": "Qanday yordam kerak? /help ni bosing.",
