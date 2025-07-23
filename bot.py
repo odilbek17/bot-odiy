@@ -81,7 +81,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     elif text == "📋 yordam":
         await help_command(update, context)
     elif text == "ℹ️ bot haqida":
-        await update.message.reply_text("Men OpenAI yordamida yaratilgan zamonaviy Telegram botman.")
+        await update.message.reply_text("Men OpenAI Odilbek yaratilgan zamonaviy Telegram botman.")
     elif text == "🔁 javob yoz":
         await update.message.reply_text("Siz tugmani bosdingiz, endi boshqa savol bering!")
     elif "openai" in text:
