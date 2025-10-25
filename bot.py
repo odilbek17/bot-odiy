@@ -8,7 +8,7 @@ from telegram.ext import (
     filters
 )
 
-TOKEN = 'Tokin Yozasiz'
+TOKEN = '8466348872:AAG0jMvbPcf7xAFG78ueZa-Je3uxyfOSjQ4'
 RESPONSES = {
     "salom": "Va alaykum assalom!",
     "yordam": "Qanday yordam kerak? /help ni bosing.",
@@ -99,3 +99,4 @@ if __name__ == '__main__':
     print("🤖 Bot ishga tushdi...")
     app.run_polling()
     print("Bot to'xtatildi.")
+
